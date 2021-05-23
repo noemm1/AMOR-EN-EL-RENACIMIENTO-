@@ -21,7 +21,7 @@ Ahora bien, sobre lo propio del análisis del neoplatonismo y la cuestión espec
 
 Para finalizar, un texto parece estar cruzando tanto la noción filosófica como lo propio de un análisis contextual. Se trata de un trabajo que comprende lo propio de Boccaccio, analizando a este, su texto y las nociones inmersas en él, como lo propio de su contexto y circunstancias.
 
-(aquí va la imagen pero no me deja guardar ayuda)
+![image](https://user-images.githubusercontent.com/83621954/119268224-a1a0a080-bbb7-11eb-97c2-2ffd3e3fd98e.png)
 
 ## Bibliografía 
 
